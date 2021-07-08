@@ -8,7 +8,7 @@ import calendar
 
 logFile = open("logs.txt", "a")
 
-employees = ["julian.henz", "simon.spruengli"]
+employees = ["julian.henz", "simon.spruengli", "niki.stohler", "sibylle.tanner"]
 port = 465  # For SSL
 smtp_server = "smtp.gmail.com"
 sender_email = "youengineering.test@gmail.com"  # Enter your address
@@ -16,7 +16,8 @@ password = "123456yE"
 message = """\
 Monatsende
 
-Hiermit bitte ich euch eure Stunden zu erfassen."""
+Hiermit bitte ich euch eure Stunden zu erfassen.
+Lg Julian"""
 
 
 def message_send_function():
