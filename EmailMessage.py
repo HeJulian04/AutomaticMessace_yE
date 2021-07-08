@@ -1,9 +1,12 @@
+import os
 import smtplib
 import ssl
 import time
 from datetime import date, timedelta
 import datetime
 import calendar
+
+logFile = open("logs.txt", "a")
 
 employees = ["julian.henz"]
 port = 465  # For SSL
@@ -29,11 +32,10 @@ def message_send_function():
             with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
                 server.login(sender_email, password)
                 server.sendmail(sender_email, receiver_email, message)
-                
-            logFile = open("logs.txt", "a")
-            logFile.write("Email successfully to " + receiver_email + " send")
-            logFile.write("\n")
-            logFile.close()
+
+        logFile.write("Email successfully to " + receiver_email + " send")
+        logFile.write("\n")
+        logFile.close()
 
 message_send_function()
 
