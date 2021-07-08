@@ -24,7 +24,7 @@ def message_send_function():
 
     last = today.replace(day=calendar.monthrange(today.year, today.month)[1])
 
-    if last - timedelta(days=1 + last.weekday() - 5) != today:
+    if last - timedelta(days=1 + last.weekday() - 5) == today:
 
         for employee in employees:
             receiver_email = employee + "@youengineering.ch"
