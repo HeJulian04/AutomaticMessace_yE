@@ -1,0 +1,61 @@
+--------------------
+Date: 6:7:2021
+Time: 7:59
+Phone number: +41796782341
+Message: Good Morning
+--------------------
+Date: 6:7:2021
+Time: 8:1
+Phone number: +41796782341
+Message: Good Morning
+--------------------
+Date: 6:7:2021
+Time: 8:12
+Phone number: +41796782341
+Message: Good Morning
+--------------------
+Date: 6:7:2021
+Time: 8:17
+Phone number: +41796106750
+Message: Good Morning
+--------------------
+Date: 6:7:2021
+Time: 9:10
+Phone number: +41 796782341
+Message: SENDING MESSAGES USING PYWHATKIT
+--------------------
+Date: 6:7:2021
+Time: 9:7
+Phone number: +41 796782341
+Message: SENDING MESSAGES USING PYWHATKIT
+--------------------
+Date: 6:7:2021
+Time: 9:7
+Phone number: +41 796106750
+Message: SENDING MESSAGES USING PYWHATKIT
+--------------------
+Date: 6:7:2021
+Time: 9:9
+Phone number: +41 796106750
+Message: SENDING MESSAGES USING PYWHATKIT
+--------------------
+Date: 6:7:2021
+Time: 9:11
+Phone number: +41 796106750
+Message: TEST
+--------------------
+Date: 6:7:2021
+Time: 9:13
+Phone number: +41 79 610 67 50
+Message: SENDING MESSAGES USING PYWHATKIT
+--------------------
+Date: 6:7:2021
+Time: 9:16
+Phone number: +41 796106750
+Message: SENDING MESSAGES USING PYWHATKIT
+--------------------
+Date: 6:7:2021
+Time: 9:26
+Phone number: +41 796782341
+Message: SENDING MESSAGES USING PYWHATKIT
+--------------------
