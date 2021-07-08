@@ -1,7 +1,6 @@
 import smtplib
 import ssl
 import time
-import schedule
 from datetime import date, timedelta
 import datetime
 import calendar
