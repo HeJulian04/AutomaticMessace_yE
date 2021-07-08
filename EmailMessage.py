@@ -26,7 +26,7 @@ def message_send_function():
 
     lastBusinessDay = last - timedelta(days=1 + last.weekday() - 5)
 
-    if lastBusinessDay != today:
+    if lastBusinessDay == today:
 
         logFile.write(lastBusinessDay.strftime("%d-%b-%Y"))
         logFile.write("\n")
