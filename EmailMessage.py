@@ -8,7 +8,7 @@ import calendar
 
 logFile = open("logs.txt", "a")
 
-employees = ["julian.henz", "simon.spruengli", "niki.stohler", "sibylle.tanner"]
+employees = ["alina.wuethrich", "beat.haenger", "benjamin.brodwolf", "benji.oser", "carl.kuesters", "christina.dasilva", "dominik.erni", "gabriel.brodmann", "gerd-emmanuel.nandzik" ,"joshua.brehm", "joeal.muller", "julian.henz", "marc.baur", "mario.hammel", "martin.luepold", "meredit.sommer", "michael.hunziker", "nadia.kramer", "niki.stohler", "pascal.andermatt", "sibylle.tanner", "simon.fankhauser", "simon.spruengli"]
 port = 465  # For SSL
 smtp_server = "smtp.gmail.com"
 sender_email = "youengineering.test@gmail.com"  # Enter your address
