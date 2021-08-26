@@ -16,8 +16,9 @@ password = "123456yE"
 message = """\
 Monatsende
 
-Hiermit bitte ich euch eure Stunden zu erfassen.
-Lg Julian"""
+Denkt bitte daran bis heute Abend eure Stunden in Hakuna vollständig zu erfassen. 
+Merci vielmals und allne ä hübsche Tag :D  Sibylle
+"""
 
 
 def message_send_function():
